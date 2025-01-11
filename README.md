@@ -1,5 +1,4 @@
 # calc
-basic calculator for practice
 # Calculator
 
 This is a simple calculator web application built using HTML, CSS, and JavaScript. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. The calculator also includes functionalities like clearing the input, deleting the last digit, and using percentages.
